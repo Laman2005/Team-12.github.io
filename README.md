@@ -1,5 +1,4 @@
 School of Information Technologies and Engineering, ADA University
-
 CSCI3510 – Principles of Operating Systems 
 
 Spring 2025 – 3/7/2025

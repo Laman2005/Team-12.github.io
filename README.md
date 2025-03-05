@@ -1,10 +1,10 @@
-School of Information Technologies and Engineering, ADA University
-CSCI3510 – Principles of Operating Systems 
-Spring 2025 – 3/7/2025
-Assignment 1 by Laman Panakhova 16882
+-- School of Information Technologies and Engineering, ADA University
+-- CSCI3510 – Principles of Operating Systems 
+-- Spring 2025 – 3/7/2025
+-- Assignment 1 by Laman Panakhova 16882
 
 <pre>
-**Readers-Writers Problem with Load Balancing**
+                                                  **Readers-Writers Problem with Load Balancing**
 </pre>
 
 <pre>
